@@ -1,0 +1,1 @@
+export const API_URL = 'https://jsonmock.hackerrank.com/api/movies/search/?';
